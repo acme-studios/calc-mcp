@@ -2,7 +2,7 @@
 
 An authless remote MCP server deployed on Cloudflare Workers that exposes a small set of calculator tools.
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=[https://github.com/acme-studios/calc-mcp](https://github.com/acme-studios/calc-mcp))
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/acme-studios/calc-mcp)
 
 ## Endpoints
 
